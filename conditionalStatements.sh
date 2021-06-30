@@ -19,3 +19,13 @@ then
 else
         echo "This is not the greater version of the bash scripting"
 fi
+
+variable=19
+
+if (($variable = 19))
+then
+	echo "True case of equation if-else"
+else
+	echo "False case"
+fi
+
