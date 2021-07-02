@@ -11,4 +11,11 @@ Bash_scripting and initial GIT control:
 
 5. hereDocDelimeter.sh:show multiple lines on output similar to variable name.
 
-6. conditionalStatements.sh : Typical if else conditional statements.
+6. conditionalStatements.sh : Basic if,elif and else conditional statements.
+
+7. conditionalStatements2.sh : 3 syntaxes of and statements ==> spaces in the if and else statements matter. "Or" statements
+
+8.{{TO BE COMPLETED AGAIN}} conditionalStatements3.sh : Case statements can be implemented with multiple if elif statements as well.
+
+9. loops.sh :
+
